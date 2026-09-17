@@ -222,8 +222,8 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Photo, Metadata, and Media Privacy
 
-- [BlotOut](https://299nhs7sjg-netizen.github.io/blotout/) - Browser tool that permanently blacks out sensitive regions in screenshots without uploading the image.
-- [DocBurn](https://299nhs7sjg-netizen.github.io/docburn/) - Browser PDF redaction tool that burns solid blackouts into the file so blurred text cannot be recovered.
+- [BlotOut](https://299nhs7sjg-netizen.github.io/blotout/) - Browser tool that permanently blacks out sensitive regions in screenshots without uploading the image. [Buy](https://greenlight5868.gumroad.com/l/blotout-lifetime) · [Compare BlotOut vs Blur](https://299nhs7sjg-netizen.github.io/greentools/blotout-vs-blur/)
+- [DocBurn](https://299nhs7sjg-netizen.github.io/docburn/) - Browser PDF redaction tool that burns solid blackouts into the file so blurred text cannot be recovered. [Buy](https://greenlight5868.gumroad.com/l/docburn-lifetime) · [Compare DocBurn vs PDF Redact](https://299nhs7sjg-netizen.github.io/greentools/docburn-vs-pdf-redact/)
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
